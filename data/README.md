@@ -1,3 +1,3 @@
 # Contains names of various APIs for different programs, Software Products, Databases and etc...
 
-- This is a list I compiled from this : [Source](https://en.wikipedia.org/w/index.php?title=Category:Lists_of_software&from=0)
+- This is a [list](https://github.com/abhi91420/Resume_Automation/blob/main/data/list_of_softwares.csv) I compiled from this : [Source](https://en.wikipedia.org/w/index.php?title=Category:Lists_of_software&from=0)
